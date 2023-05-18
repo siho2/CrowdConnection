@@ -285,6 +285,7 @@ h2{
   </div>
              <address class="top">
                 <strong>copyrightwebstoryboyAll rights Reserved.</strong>
+                <strong>copyrightwebstoryboyAll rights Reserved.</strong>
              </address>
 </div> 
 </body>
