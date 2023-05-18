@@ -1,0 +1,43 @@
+.wt_wrap a {
+    text-decoration: none;
+    color: inherit;
+}
+
+* {
+    font-size: 10px;
+}
+
+body {
+    margin:0;
+}
+
+p {
+    margin: 0;
+}
+
+.wt_title {
+    height:297px;
+    background-color: aliceblue;
+}
+
+.wt_text {
+    padding-top: 150px;
+    padding-left: 300px;
+}
+
+.wt_text p {
+    font-size: 4rem;
+    font-weight: 300;
+}
+
+.wt_text span {
+    font-size: 2rem;
+    font-weight: 200;
+}
+
+.iv_wt, .pt_wt {
+    height:250px;
+    width:1200px;
+    margin:0 auto;
+}
+
